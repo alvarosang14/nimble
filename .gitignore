@@ -1,0 +1,8 @@
+build
+debug
+external
+release
+tmp
+
+*.stash
+nimble-qt*
